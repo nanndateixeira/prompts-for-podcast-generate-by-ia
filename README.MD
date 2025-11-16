@@ -45,6 +45,17 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
 - 🤖 3. Use os prompts de artes no `Gemini`
 
+<p align="center">
+<img 
+    src="./assets/BitWoman.png"
+    width="300"
+/>
+</p>
+
+<p align="center">
+    Apresentadora: BitWoman
+</p>
+
 ## 👨‍💻 Expert
 
 <p>
