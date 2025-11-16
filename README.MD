@@ -52,7 +52,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src=" https://github.com/nanndateixeira.png"
     />
     <p>&nbsp&nbsp&nbspNome Aqui<br>
     &nbsp&nbsp&nbsp
