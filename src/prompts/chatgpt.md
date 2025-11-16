@@ -43,7 +43,7 @@ no bloco [FINALIZAÇÃO] substitua por uma despedida cool com o final 'Eu sou Bi
 
 use termos de fácil explicação
 
-O podcast vai ser apresentado somente por uma pessoa, chamada BitWoman
+O podcast vai ser apresentado somente por uma pessoa, chamada BitWoman  |
 
 O podcast deve ser curto
 
