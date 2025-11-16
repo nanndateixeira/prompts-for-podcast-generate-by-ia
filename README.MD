@@ -47,7 +47,7 @@ Utilizei uma esteira de prompts para gerar cada etapa do processo criativo.
 
 <p align="center">
 <img 
-    src="./assets/BitWoman.png"
+    src="./assets/BitWoman.jpg"
     width="300"
 />
 </p>
