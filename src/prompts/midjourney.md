@@ -1,0 +1,1 @@
+Narrador: Create a draw of a female podcaster with brown hair, wearing glasses, shown in profile, near a microphone. She should be in a simple studio with references to DC Comics superheroes. The environment should have dim lighting, be colorful, and the background should be slightly blurred.
